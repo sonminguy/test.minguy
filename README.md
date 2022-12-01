@@ -1,2 +1,2 @@
 # test.minguy
-print("안녕하세요")
+안녕하세요 여러분

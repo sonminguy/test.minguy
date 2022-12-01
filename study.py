@@ -14,4 +14,5 @@ plt.title('sin & cos')
 plt.legend()
 plt.show()
 print("난 모르겠다")
+print("이건 마스터")
 
